@@ -1,0 +1,95 @@
+#mooha {position: absolute;
+	margin-top:-42.1%;
+
+}
+ul{
+	display: flex;
+	list-style-type: none;
+	overflow: hidden;
+	margin-top: -40%;
+	position: absolute;
+	margin-left: 12%;
+}
+li a{
+	color:#fff;
+	padding: 15px;
+	text-decoration: none;
+	font-family: cursive;
+	font-size: 35px;
+}
+a:hover{
+	background-color:brown;
+}
+.amazingslider-wrapper{
+	margin: none;
+	padding: none;
+}
+#ho{
+	margin-left: 69%;
+	margin-top: -40%;
+	position: absolute;
+	font-size: 35px;
+	font-family: "Montserrat";
+	color: #fff;
+	background-color: rgb(0,0,0,0.4);
+	border:1px white solid;
+}
+#bi{
+	font-size: 35px;
+	margin-left: 84%;
+	margin-top: -39.7%;
+	position: absolute;
+	min-height: 500px;
+	min-width: 50%;
+}
+input{
+	height: 32px;
+	border-radius: 12px;
+	border: 0px;
+	min-width:28%;
+	background-color: white rgb(0,0,0,0.9);
+}
+#nu{
+	margin-left: 95%;
+	margin-top: -38.2%;
+	position: absolute;
+}
+img{
+	width: 25%
+}
+#ju{
+	text-align: center;
+	word-spacing: 12px;
+	padding: 20px;
+	border-bottom: 1px black solid;
+}
+#go{
+	margin-left: 4%;
+	margin-bottom: 5%;
+	min-width: 34%;
+	width: 80;
+
+}
+#oh{
+	border: 2px black solid;
+	min-width: 60%;
+	border-left: 0px;
+	border-top:0px;
+	border-bottom: 0px;
+	max-height: 250px;
+	font-size: 17px;
+	margin-left: 0px;
+	margin-top: 20px;
+	font-family: bold;
+	font-family: "roboto"
+
+}
+#raby{
+	width: 100%; display: flex;
+	padding-left: 10px;
+	border-bottom: 1px black solid;
+}
+#ko{
+	color:#c90017;
+	font-family: "Montserrat";
+}
